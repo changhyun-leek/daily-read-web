@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Daily Read">
+  <rect width="512" height="512" rx="112" fill="#faf9f7"/>
+  <path d="M96 136c48-18 96-18 152 8v246c-56-26-104-26-152-8V136z" fill="#fff" stroke="#8a5a2b" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M416 136c-48-18-96-18-152 8v246c56-26 104-26 152-8V136z" fill="#fff" stroke="#8a5a2b" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M248 144v246" stroke="#8a5a2b" stroke-width="18" stroke-linecap="round"/>
+  <path d="M136 196h72M136 244h72M136 292h56" stroke="#c9a678" stroke-width="16" stroke-linecap="round"/>
+  <path d="M304 196h72M304 244h72M304 292h56" stroke="#c9a678" stroke-width="16" stroke-linecap="round"/>
+</svg>
